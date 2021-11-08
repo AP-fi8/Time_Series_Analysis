@@ -1,0 +1,2 @@
+# Time_Series_Analysis
+This project considers a secondary dataset on number of riders traveled n each month through the Amtrak Railway Transport Company from 1991 Jan to 2003 Apr. The main objective of this project is to build a time series model that can depict the deterministic components and then using that model we need to forecast for the next 12 months of the ridership. Our SARIMAX model results in least RMSE among all other models that we used.
